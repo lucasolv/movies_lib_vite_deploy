@@ -4,8 +4,10 @@ import MovieCard from "../components/MovieCard"
 
 import './MoviesGrid.css'
 
-const searchURL = import.meta.env.VITE_SEARCH
-const apiKey = import.meta.env.VITE_API_KEY
+const searchURL = "https://api.themoviedb.org/3/search/movie"
+const apiKey = "api_key=dc0aa4579248b46fa686313c763136e9"
+/* const searchURL = import.meta.env.VITE_SEARCH
+const apiKey = import.meta.env.VITE_API_KEY */
 
 const Search = () => {
 
