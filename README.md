@@ -1,0 +1,2 @@
+Projeto feito com as teconologias Vite e React, utilizando a API do TMDB para ter acesso a dados de filmes.
+O projeto coloca em prática conceitos de hooks de React, react-router-dom, conexões com APIs, entre outros.
